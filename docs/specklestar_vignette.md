@@ -94,7 +94,7 @@ Find real rho and theta
 rho_theta_dm <- zqt(rho_theta_dm_ccd)
 ```
 
-![Power spectrum](pics/Power_spectrum.png)
+![Power spectrum](../pics/Power_spectrum.png)
 
 ## Scale calibration
 st
