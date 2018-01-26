@@ -1,4 +1,8 @@
-[Description of *specklestar* package](docs/specklestar_vignette.md)
+---
+title: drastega
+---
+
+[Description of *specklestar* R package](docs/specklestar_vignette.md)
 
 [My GitHub repositories](https://github.com/drastega)
 
