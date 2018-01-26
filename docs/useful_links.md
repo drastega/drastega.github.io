@@ -1,6 +1,3 @@
----
----
-
 # R related
 
 [CRAN](https://cran.r-project.org/)
@@ -12,3 +9,8 @@
 [Hadley Wickham webpage](http://hadley.nz/)
 
 [Rsudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
+# Statistics
+
+[Statistics Done Wrong](https://www.statisticsdonewrong.com/)
+
