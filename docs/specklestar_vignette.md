@@ -1,7 +1,6 @@
 ---
 title: "Reduction of speckle interferometric binary stars"
 author: "Denis Rastegaev"
-date: "2018-01-26"
 output: pdf_document
 vignette: >
   %\VignetteIndexEntry{Reduction of binary stars}
