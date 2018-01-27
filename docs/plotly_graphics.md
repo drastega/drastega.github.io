@@ -1,7 +1,6 @@
 ---
 title: "TTT"
 author: "drastega"
-date: "1/27/2018"
 output:
   html_document:
     keep_md: true
