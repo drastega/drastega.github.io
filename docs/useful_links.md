@@ -1,12 +1,14 @@
 # R related
 
-[CRAN](https://cran.r-project.org/)
+[R Project](https://www.r-project.org/)
 
 [R for Data Science](http://r4ds.had.co.nz/)
 
+[Hadley Wickham's webpage](http://hadley.nz/)
+
 [Awesome R](https://awesome-r.com/)
 
-[Hadley Wickham webpage](http://hadley.nz/)
+[Dirk Eddelbuettel's webpage](http://dirk.eddelbuettel.com/)
 
 [Rsudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
 
