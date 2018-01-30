@@ -10,6 +10,8 @@ output:
 
 [R Project](https://www.r-project.org/)
 
+[Cookbook for R](http://www.cookbook-r.com/)
+
 [R for Data Science](http://r4ds.had.co.nz/)
 
 [Advanced R](http://adv-r.had.co.nz/)
