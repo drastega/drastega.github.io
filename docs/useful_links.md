@@ -29,3 +29,9 @@ output:
 [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 
 [RANDOM.ORG](https://www.random.org/)
+
+# C++ related
+
+[cplusplus.com/](http://www.cplusplus.com/)
+
+[learncpp.com](http://www.learncpp.com/)
