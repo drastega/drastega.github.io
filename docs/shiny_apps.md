@@ -8,3 +8,4 @@ output:
 
 # Several Shiny applications for speckle interferometry
 
+[Generator of speckled binary star](https://drastega.shinyapps.io/speckle_binary/)
