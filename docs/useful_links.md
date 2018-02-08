@@ -38,4 +38,4 @@ output:
 
 # Algorithms
 
-[OpenGenus](https://discourse.opengenus.org/)
+[OpenGenus cosmos](https://github.com/OpenGenus/cosmos)
