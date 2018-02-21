@@ -10,19 +10,21 @@ output:
 
 [R Project](https://www.r-project.org/)
 
+[Rsudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+
 [Cookbook for R](http://www.cookbook-r.com/)
 
 [R for Data Science](http://r4ds.had.co.nz/)
-
-[Advanced R](http://adv-r.had.co.nz/)
 
 [Hadley Wickham's webpage](http://hadley.nz/)
 
 [Awesome R](https://awesome-r.com/)
 
+[Advanced R](http://adv-r.had.co.nz/)
+
 [Dirk Eddelbuettel's webpage](http://dirk.eddelbuettel.com/)
 
-[Rsudio cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
+[Experiments in R](https://fronkonstin.com/)
 
 # Statistics
 
