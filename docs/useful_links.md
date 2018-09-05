@@ -43,3 +43,6 @@ output:
 [OpenGenus cosmos](https://github.com/OpenGenus/cosmos)
 
 [Top 10 algorithms](http://www.cs.fsu.edu/~lacher/courses/COT4401/notes/cise_v2_i1/index.html)
+
+# Visualization
+[Jan Willem Tulp (TULP interactive)](http://tulpinteractive.com/)
