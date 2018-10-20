@@ -46,3 +46,7 @@ output:
 
 # Visualization
 [Jan Willem Tulp (TULP interactive)](http://tulpinteractive.com/)
+
+# Miscellaneous
+[Tables Generator](https://www.tablesgenerator.com)
+
