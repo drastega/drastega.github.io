@@ -34,7 +34,7 @@ output:
 
 [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 
-(StatsTools)[http://statstools.com]
+[StatsTools](http://statstools.com)
 
 [RANDOM.ORG](https://www.random.org/)
 
