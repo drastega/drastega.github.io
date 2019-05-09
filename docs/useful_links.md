@@ -38,6 +38,14 @@ output:
 
 [RANDOM.ORG](https://www.random.org/)
 
+## Bayesian inference
+
+[Байесовские методы машинного обучения (часть 1)](http://www.machinelearning.ru/wiki/images/e/e1/BayesML-2007-textbook-1.pdf)
+
+[Байесовские методы машинного обучения (часть 2)](http://www.machinelearning.ru/wiki/images/4/43/BayesML-2007-textbook-2.pdf)
+
+
+
 # C++ related
 
 [cplusplus.com](http://www.cplusplus.com/)
