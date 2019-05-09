@@ -36,6 +36,8 @@ output:
 
 [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 
+[Information Theory, Inference, and Learning Algorithms](http://www.inference.org.uk/itprnn/book.pdf)
+
 [StatsTools](http://statstools.com)
 
 [RANDOM.ORG](https://www.random.org/)
@@ -46,7 +48,7 @@ output:
 
 [Байесовские методы машинного обучения (часть 2)](http://www.machinelearning.ru/wiki/images/4/43/BayesML-2007-textbook-2.pdf)
 
-
+[Введение в байесовский вывод (Сергей Николенко)](https://logic.pdmi.ras.ru/~sergey/teaching/mlspsu17/02-bayesthm.pdf)
 
 # C++ related
 
