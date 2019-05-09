@@ -32,13 +32,15 @@ output:
 
 # Statistics
 
+- General
+
 [Statistics Done Wrong](https://www.statisticsdonewrong.com/)
 
 [StatsTools](http://statstools.com)
 
 [RANDOM.ORG](https://www.random.org/)
 
-## Bayesian inference
+- Bayesian inference:
 
 [Байесовские методы машинного обучения (часть 1)](http://www.machinelearning.ru/wiki/images/e/e1/BayesML-2007-textbook-1.pdf)
 
