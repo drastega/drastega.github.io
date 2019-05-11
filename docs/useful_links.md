@@ -46,6 +46,8 @@ output:
 
 [Rasmus Bååth's Research Blog (using R)](http://www.sumsar.net/)
 
+[Michael Clark's Blog](https://m-clark.github.io)
+
 [Байесовские методы машинного обучения (часть 1)](http://www.machinelearning.ru/wiki/images/e/e1/BayesML-2007-textbook-1.pdf)
 
 [Байесовские методы машинного обучения (часть 2)](http://www.machinelearning.ru/wiki/images/4/43/BayesML-2007-textbook-2.pdf)
