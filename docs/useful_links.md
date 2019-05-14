@@ -46,7 +46,7 @@ output:
 
 [Michael Clark's Blog](https://m-clark.github.io)
 
-[ARM models for STAN](https://github.com/stan-dev/example-models/wiki/ARM-Models-Sorted-by-Type)
+[STAN models](https://github.com/stan-dev/example-models/wiki)
 
 [Rasmus Bååth's Research Blog (using R)](http://www.sumsar.net/)
 
