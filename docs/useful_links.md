@@ -10,7 +10,7 @@ output:
 
 [Joe Antognini page](https://joe-antognini.github.io/)
 
-# R related
+# R related (general)
 
 [R Project](https://www.r-project.org/)
 
@@ -44,9 +44,11 @@ output:
 
 - Bayesian inference:
 
-[Rasmus Bååth's Research Blog (using R)](http://www.sumsar.net/)
-
 [Michael Clark's Blog](https://m-clark.github.io)
+
+[ARM models for STAN](https://github.com/stan-dev/example-models/wiki/ARM-Models-Sorted-by-Type)
+
+[Rasmus Bååth's Research Blog (using R)](http://www.sumsar.net/)
 
 [Байесовские методы машинного обучения (часть 1)](http://www.machinelearning.ru/wiki/images/e/e1/BayesML-2007-textbook-1.pdf)
 
