@@ -44,17 +44,13 @@ output:
 
 - Bayesian inference:
 
-[Michael Clark's Blog](https://m-clark.github.io)
+[Bayesian Models for Astrophysical Data](https://www.bayesianmodelsforastrophysicaldata.com/)
 
 [STAN models](https://github.com/stan-dev/example-models/wiki)
 
 [Rasmus Bååth's Research Blog (using R)](http://www.sumsar.net/)
 
-[Байесовские методы машинного обучения (часть 1)](http://www.machinelearning.ru/wiki/images/e/e1/BayesML-2007-textbook-1.pdf)
-
-[Байесовские методы машинного обучения (часть 2)](http://www.machinelearning.ru/wiki/images/4/43/BayesML-2007-textbook-2.pdf)
-
-[Введение в байесовский вывод (Сергей Николенко)](https://logic.pdmi.ras.ru/~sergey/teaching/mlspsu17/02-bayesthm.pdf)
+[Michael Clark's Blog](https://m-clark.github.io)
 
 # C++ related
 
