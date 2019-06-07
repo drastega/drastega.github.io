@@ -46,6 +46,10 @@ output:
 
 [Bayesian Models for Astrophysical Data](https://www.bayesianmodelsforastrophysicaldata.com/)
 
+[Tutorials and Workshops on R and statistics](http://www.flutterbys.com.au/stats/course.html)
+
+[Statistical Rethinking with brms](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
+
 [STAN models](https://github.com/stan-dev/example-models/wiki)
 
 [Rasmus Bååth's Research Blog (using R)](http://www.sumsar.net/)
