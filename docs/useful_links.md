@@ -44,17 +44,19 @@ output:
 
 - Bayesian inference:
 
-[Bayesian Models for Astrophysical Data](https://www.bayesianmodelsforastrophysicaldata.com/)
+[Bayesian Models for Astrophysical Data](https://www.bayesianmodelsforastrophysicaldata.com)
 
 [Tutorials and Workshops on R and statistics](http://www.flutterbys.com.au/stats/course.html)
 
-[Statistical Rethinking with brms](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded/)
+[Statistical Rethinking with brms](https://bookdown.org/ajkurz/Statistical_Rethinking_recoded)
 
 [STAN models](https://github.com/stan-dev/example-models/wiki)
 
-[Rasmus Bååth's Research Blog (using R)](http://www.sumsar.net/)
+[Rasmus Bååth's Research Blog (using R)](http://www.sumsar.net)
 
 [Michael Clark's Blog](https://m-clark.github.io)
+
+[Rens van de Schoot site](https://www.rensvandeschoot.com/tutorials/brms)
 
 # C++ related
 
